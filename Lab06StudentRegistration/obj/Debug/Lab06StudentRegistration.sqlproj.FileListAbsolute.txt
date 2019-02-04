@@ -1,0 +1,9 @@
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\bin\Debug\Lab06StudentRegistration.dacpac
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\bin\Debug\Lab06StudentRegistration.dll
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\bin\Debug\Lab06StudentRegistration.pdb
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\Model.xml
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\refactor.xml
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\postdeploy.sql
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\predeploy.sql
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\Lab06StudentRegistration.dll
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06StudentRegistration\obj\Debug\Lab06StudentRegistration.pdb

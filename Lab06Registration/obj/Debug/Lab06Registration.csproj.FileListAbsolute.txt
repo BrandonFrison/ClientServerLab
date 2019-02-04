@@ -1,0 +1,6 @@
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\bin\Debug\Lab06Registration.exe.config
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\bin\Debug\Lab06Registration.exe
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\bin\Debug\Lab06Registration.pdb
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\obj\Debug\Lab06Registration.csprojResolveAssemblyReference.cache
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\obj\Debug\Lab06Registration.exe
+H:\School\Lab6ClientServer\Lab06StudentRegistration\Lab06Registration\obj\Debug\Lab06Registration.pdb
